@@ -5,6 +5,8 @@ I'm an architect focus on database processing and AI develop.
     * extract postgres changed records from WAL.
     * extract redis change data from AOF&RDB
     * use **vector clock time** to make sure the records are final consistency
+    * extend sql command, just like **sync_insert**, **sync_delete** and **sync_update**, for the syncer to terminal.
+    * extend redis command, just like **upvct**,**commitvct**,**syncupvct**,**synccommitvct**,**hsetex**,**hexpire** and so on.
   
   * a face tracking implement, base on [deepsort](https://github.com/oylz/DS)
   
