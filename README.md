@@ -28,7 +28,8 @@
 * pg审计
 * skywalking存储对接
 
-### 全球数据同步,最终一致, 异地多活
+### 数据同步组件
+* 全球同步, 最终一致, 异地多活
 * 回环控制:pg语法层、持久化层扩展(sync_insert,sync_update,sync_delete)， redis命令扩展(sync_\*)
 * 多写控制: 优先级向量时钟设计实现
 * redis hash field过期实现 
