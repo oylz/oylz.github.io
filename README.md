@@ -32,7 +32,7 @@ linux|8.5
 
 ## 主要项目经历
 
-### apm(apllication performance management)
+### 应用性能管理
 * 旁路抓包, 网络报文解析,面向协议(pg,thrift,rocketmq,http)
 * c/c++运行时注入
 * java字节码注入
