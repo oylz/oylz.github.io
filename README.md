@@ -2,11 +2,13 @@
 ## 个人简介
 
 * 姓名: 许友正
+* 出生年月: 1984.12
 * 手机: 15759268138
 * 邮箱: xuyouzhengzhenghe@126.com
 * 居住所在地: 厦门
 * github主页:  [oylz](https://github.com/oylz)
 * 主攻方向: 架构设计、高并发低延时基础组件、apm(应用性能管理)、计算机视觉(人工智能)
+* 教育背景: 2005-2009山东大学物理专业, 本科
 
 技能/语言|自评分(满分10)
 -|-
@@ -31,7 +33,7 @@ linux|8.5
 ## 主要项目经历
 
 ### apm(apllication performance management)
-* 旁路分析
+* 旁路抓包, 网络报文解析,面向协议(pg,thrift,rocketmq,http)
 * c/c++运行时注入
 * java字节码注入
 * pg审计
