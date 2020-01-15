@@ -1,16 +1,22 @@
-I'm an architect focus on database processing and AI develop.
+# 个人简介
 
-* history:
-  * a global data synchronization solution, make sure final consistency
-    * extract postgres changed records from WAL.
-    * extract redis change data from AOF&RDB
-    * use **vector clock time** to make sure the records are final consistency
-    * extend sql command, just like **sync_insert**, **sync_delete** and **sync_update**, for the syncer to terminal.
-    * extend redis command, just like **upvct**,**commitvct**,**syncupvct**,**synccommitvct**,**hsetex**,**hexpire** and so on.
-  
-  * [a face tracking implement](https://github.com/oylz/DS), base on deepsort\-\- Simple Online Realtime Tracking with a Deep Association Metric
-  
-  
-* TODO: [gperftools](https://github.com/oylz/gperftools), [it's doc](https://oylz.github.io/gperftools/)
+* 姓名: 许友正
+* 手机: 15759268138
+* 邮箱: xuyouzhengzhenghe@126.com
+* 居住所在地: 厦门
+* github主页:  [oylz](https://github.com/oylz)
+* 主攻方向: 架构设计、高并发低延时基础组件、apm(应用性能管理)、计算机视觉(人工智能)
 
+# 工作经历
+
+公司|时间|职务|方向
+-|-|-|-
+厦门亿联|2018.02-至今|Teamleader|架构设计,基础组件
+深图智服|2017.03-2018.01|技术架构师|计算机视觉
+网宿科技|2016.07-2017.03|架构师|连麦
+公安三所|2013.03-2016.06|技术主管|大数据
+上海歌联|2012.12-2013.03|c++主程|智能物流
+盘石软件|2009.04-2012.11|组长|计算机取证
+
+# 项目经历
 
