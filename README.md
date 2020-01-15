@@ -37,8 +37,8 @@
 
 ### 智能安防
 * 人脸检测、跟踪、识别
-* [caffe添加face_proposal层](https://github.com/oylz/caffe-pvanet-shufflenet)
-* [多目标跟踪](https://github.com/oylz/DS)
+* [多目标跟踪, 已对外开源](https://github.com/oylz/DS)
+* [caffe添加face_proposal层,已对外开源](https://github.com/oylz/caffe-pvanet-shufflenet)
 * 视频编解码
 
 ### 连麦
