@@ -32,13 +32,13 @@
 
    主导直播交互系统架构设计;
 
-   ```技能项(c++,java,redis,twemproxy,netty,rocketmq,solr, svm, caffe, alexnet, vgg, opencv)```
+   ```技能项(c++,java,redis,twemproxy,netty,rocketmq,solr)```
 
 ### 0x0204 公安三所(2013.03-2016.06, 技术主管, 大数据)
 
    前期实现百亿级记录秒级检索;中后期从事高速卡口相关\(车牌识别、危化车识别、人车绑定\)及安防相关\(枪球联动一体机\[人脸检测识别、相机标定\]\);
 
-   ```技能项(c++,java,hadoop,hbase,hive,spark,solr,mysql,cobar,caffe,HDFS,GPFS,ClusterFS)```
+   ```技能项(c++,java,hadoop,hbase,hive,spark,solr,mysql,cobar,caffe,HDFS,GPFS,ClusterFS, svm, caffe, alexnet, vgg, opencv)```
 
 ### 0x0205 上海歌联(2012.12-2013.03, c++主程, 智能物流)
 
