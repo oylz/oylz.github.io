@@ -23,32 +23,27 @@ linux|8.5
 
 * 厦门亿联(2018.02-2020.01, Teamleader, 架构设计,基础组件)
 前期主导云服务端架构重构,让亿联云视频真正**云化**;中期专注基础组件建设\(数据中心\[postgresql&redis全球同步\], 接入服务, 推送服务\);后期专注微服务性能管理\(全链路追踪\);
-
-技能项\(c++,java,postgresql,redis,rocksdb,rocketmq,gperftools,vargrind,netty\)
+** ```技能项\(c++,java,postgresql,redis,rocksdb,rocketmq,gperftools,vargrind,netty\)```
 
 * 智服(2017.03-2018.01, 架构师,计算机视觉)
 主导智能安防系统架构设计,涉足人脸分析\(检测、跟踪、识别\)、视频相关\(编码合流&推流、拉流解码\);
-
-技能项\(c++,redis,caffe,tensorflow,ffmpeg\)
+** ```技能项\(c++,redis,caffe,tensorflow,ffmpeg\)```
 
 * 网宿科技(2016.07-2017.03, 架构师, 连麦/直播)
 主导直播交互系统架构设计;
-
-技能项\(c++,java,redis,twemproxy,netty,rocketmq,solr\)
+** ```技能项\(c++,java,redis,twemproxy,netty,rocketmq,solr\)```
 
 * 公安三所(2013.03-2016.06, 技术主管, 大数据)
 前期实现百亿级记录秒级检索;中后期从事高速卡口相关\(车牌识别、危化车识别、人车绑定\)及安防相关\(枪球联动一体机\[人脸检测识别、相机标定\]\);
-技能项\(c++,java,hadoop,hbase,hive,spark,solr,mysql,cobar,caffe,HDFS,GPFS,ClusterFS\)
+** ```技能项\(c++,java,hadoop,hbase,hive,spark,solr,mysql,cobar,caffe,HDFS,GPFS,ClusterFS\)```
 
 * 上海歌联(2012.12-2013.03, c++主程, 智能物流)
 主导智能物流系统架构设计及服务端实现;
-
-技能项\(c++,电子栅栏\)
+** ```技能项\(c++,电子栅栏\)```
 
 * 盘石软件(2009.04-2012.11, 组长, 计算机取证)
 文件系统解析,数据文件破解,数据恢复;
-
-技能项\(c++, java, hadoop, hbase\)
+** ```技能项\(c++, java, hadoop, hbase\)```
 
 ## 主要项目经历
 
