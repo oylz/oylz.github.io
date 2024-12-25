@@ -28,7 +28,11 @@
 * 擅长
     * 敏锐的技术洞察力,积极跟踪前沿技术与方向,极速的方案设计与落地能力
     * 深度学习框架:tensorflow、torch、caffe、tensorrt、rknn(npu)
-    * 计算机视觉: cnn、vit、diffustion训练及微调
+    * 计算机视觉
+        * cnn、vit、diffustion训练及微调
+        * 图像分类、目标检测、图像分割、深度估计
+        * 异常检测、关键点匹配
+        * 人脸检测分割识别
     * 自然语言处理: 大语言模型微调:llama-3.1、qwen-2.0
     * 语音: paddlespeech、fishspeech、maskgct
     * 模型加速: vllm、onnx、trt、tf savedmodel
