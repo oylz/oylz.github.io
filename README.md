@@ -14,30 +14,31 @@
 
 ## 2.工作经历
 
-公司|职务|工作内容|时间
--|-|-|-
-智业互联|AI部门经理|人工智能,数据中心,架构设计,疑难排查|2020.04-2024.11
-厦门亿联|teamleader|架构设计,基础组件,链路追踪|2018.02-2020.01
-深图智服|技术架构师|人脸检测识别,多目标跟踪,视频编解码|2017.03-2018.01
-网宿科技|架构师|50万并发接入服务,异地双活|2016.07-2017.03
-公安三所|技术主管|大数据,车牌识别,人脸识别,相机标定|2013.03-2016.06
-盘石软件|c++主程|计算机取证|2009.04-2013.03
+公司|职务|工作内容|时间|备注
+-|-|-|-|-
+智业互联|AI部门经理|人工智能,数据中心,架构设计,疑难排查|2020.04-2024.11|2023智业软件技术创新奖,2022智业健康产研中心特别荣誉奖
+厦门亿联|teamleader|架构设计,基础组件,链路追踪|2018.02-2020.01|股权激励对象
+深图智服|技术架构师|人脸检测识别,多目标跟踪,视频编解码|2017.03-2018.01|-
+网宿科技|架构师|50万并发接入服务,异地双活|2016.07-2017.03|2016网宿技术创新奖
+公安三所|技术主管|大数据,车牌识别,人脸识别,相机标定|2013.03-2016.06|2014公安部三所技能大赛三等奖,2013公安三所优秀员工
+盘石软件|c++主程|计算机取证|2009.04-2013.03|2011盘石软件上海优秀员工
 
 
 ## 3.技能/优势
+* 擅长
+    * 敏锐的技术洞察力,积极跟踪前沿技术与方向,极速的方案设计与落地能力
+    * 深度学习框架:tensorflow、torch、caffe、tensorrt、rknn(npu)
+    * 计算机视觉: cnn、vit、diffustion训练及微调
+    * 自然语言处理: 大语言模型微调:llama-3.1、qwen-2.0
+    * 语音: paddlespeech、fishspeech、maskgct
+    * 模型加速: vllm、onnx、trt、tf savedmodel
+    * 语言: c++、python、shell、java
+    * 工具: jstack、arthas、gdb、gperftools、vargrind
+
 * 开源社区积极参与者
     * 贡献项目[DS](https://github.com/oylz/DS)
     * 多项目issue积极解决者[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/issues/156#issuecomment-2324608395)、[transparent-background](https://github.com/plemeri/transparent-background/issues/13)、[BFSR](https://github.com/liyuantsao/BFSR/issues/1)、[dinov2](https://github.com/facebookresearch/dinov2/issues/19)
     * 贡献两个gound.onnx、inspyrenet.onnx, 请求数350+ 
-* 擅长
-    * 敏锐的技术洞察力,积极跟踪前沿技术与方向,极速的方案设计与落地能力
-    * 计算机视觉(cnn、vit、diffustion训练及微调)
-    * 自然语言处理(大语言模型微调:llama-3.1、qwen-2.0)
-    * 语音(paddlespeech、fishspeech、maskgct)
-    * 模型加速(vllm、onnx、tensorrt)
-    * 语言:c++、python、shell、java
-    * 性能优化:jstack、arthas、gdb、gperftools
-
 
 ## 4.主要项目经历
 
