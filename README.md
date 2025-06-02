@@ -15,14 +15,12 @@
 * 10年cv经验:
     * 行业:人脸检测跟踪识别、车牌识别、工业异常检测
     * 领域:图像分类、目标检测、图像分割、深度估计、关键点匹配
-* 5年nlp经经验:词向量、文本分类、命名实体、句法分析
+* 5年nlp经验:词向量、文本分类、命名实体、句法分析、llm微调
+* 10年java及python经历
 * 熟悉DL框架上训练及推理
     * tensorflow、torch、caffe、tensorrt、rknn(npu)
     * vllm、llama.cpp、ollama、transformers
-* 擅长模型加速及精度优化
-    * onnx转换
-    * 模型调优
-    * llm微调
+* 擅长模型加速及精度优化: onnx转换、模型调优
 * 开源社区积极参与者
     * 贡献项目[DS](https://github.com/oylz/DS): 具有深度关联度量的在线多目标实时跟踪
     * 多个项目issue的积极解决者[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/issues/156#issuecomment-2324608395)、[transparent-background](https://github.com/plemeri/transparent-background/issues/13)、[BFSR](https://github.com/liyuantsao/BFSR/issues/1)、[dinov2](https://github.com/facebookresearch/dinov2/issues/19)
