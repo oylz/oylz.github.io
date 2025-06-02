@@ -8,8 +8,6 @@
 * 手机: 15759268138
 * 邮箱: xuyouzhengzhenghe@126.com
 * 居住所在地: 厦门同安
-* github主页:  [https://github.com/oylz](https://github.com/oylz)
-* 主攻方向: 人工智能、架构设计、基础组件、性能优化
 
 ## 技能/优势
 * 16年c++经历,擅长linux编程、性能优化、疑难问题排查
