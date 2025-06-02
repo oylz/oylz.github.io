@@ -4,7 +4,7 @@
 
 * 姓名: 许友正
 * 出生年月: 1984.12
-* 教育背景: 2005-2009山东大学物理专业, 本科
+* 教育背景: 2005-2009山东大学物理, 本科
 * 手机: 15759268138
 * 邮箱: xuyouzhengzhenghe@126.com
 * 居住所在地: 厦门同安
@@ -25,24 +25,21 @@
 
 
 ## 3.技能/优势
-* 擅长
-    * 敏锐的技术洞察力,积极跟踪前沿技术与方向,极速的方案设计与落地能力
-    * 深度学习框架:tensorflow、torch、caffe、tensorrt、rknn(npu)
-    * 计算机视觉
-        * cnn、vit、diffustion训练及微调
-        * 图像分类、目标检测、图像分割、深度估计
-        * 异常检测、关键点匹配
-        * 人脸检测分割识别
-    * 自然语言处理: 大语言模型微调:llama-3.1、qwen-2.0
-    * 语音: paddlespeech、fishspeech、maskgct
-    * 模型加速: vllm、onnx、trt、tf savedmodel
-    * 语言: c++、python、shell、java
-    * 工具: jstack、arthas、gdb、gperftools、vargrind
-
+* 16年c++经历,擅长linux编程、性能优化、疑难问题排查
+* 10年cv经验:
+    * 行业:人脸检测跟踪识别、车牌识别、工业异常检测
+    * 领域:图像分类、目标检测、图像分割、深度估计、关键点匹配
+* 5年nlp经经验:词向量、文本分类、命名实体、句法分析
+* 熟悉DL框架上训练及推理
+    * tensorflow、torch、caffe、tensorrt、rknn(npu)
+    * vllm、llama.cpp、ollama、transformers
+* 擅长模型加速及精度优化
+    * onnx转换
+    * 模型调优
 * 开源社区积极参与者
     * 贡献项目[DS](https://github.com/oylz/DS)
-    * 多项目issue积极解决者[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/issues/156#issuecomment-2324608395)、[transparent-background](https://github.com/plemeri/transparent-background/issues/13)、[BFSR](https://github.com/liyuantsao/BFSR/issues/1)、[dinov2](https://github.com/facebookresearch/dinov2/issues/19)
-    * 贡献两个gound.onnx、inspyrenet.onnx, 请求数350+ 
+    * 多个项目issue的积极解决者[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/issues/156#issuecomment-2324608395)、[transparent-background](https://github.com/plemeri/transparent-background/issues/13)、[BFSR](https://github.com/liyuantsao/BFSR/issues/1)、[dinov2](https://github.com/facebookresearch/dinov2/issues/19)
+    * 贡献两个模型:gound.onnx、inspyrenet.onnx, 下载数1000+ 
 
 ## 4.主要项目经历
 
