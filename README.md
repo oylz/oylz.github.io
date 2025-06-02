@@ -8,7 +8,7 @@
 * 手机: 15759268138
 * 邮箱: xuyouzhengzhenghe@126.com
 * 居住所在地: 厦门同安
-* github: https://github.com/oylz
+* github: [https://github.com/oylz](https://github.com/oylz)
 
 ## 技能/优势
 * 16年c++经历,擅长linux编程、性能优化、疑难问题排查
@@ -22,6 +22,7 @@
 * 擅长模型加速及精度优化
     * onnx转换
     * 模型调优
+    * llm微调
 * 开源社区积极参与者
     * 贡献项目[DS](https://github.com/oylz/DS): 具有深度关联度量的在线多目标实时跟踪
     * 多个项目issue的积极解决者[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/issues/156#issuecomment-2324608395)、[transparent-background](https://github.com/plemeri/transparent-background/issues/13)、[BFSR](https://github.com/liyuantsao/BFSR/issues/1)、[dinov2](https://github.com/facebookresearch/dinov2/issues/19)
