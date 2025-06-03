@@ -22,6 +22,7 @@ github: [https://github.com/oylz](https://github.com/oylz)|-
 * 擅长模型加速及精度优化: onnx转换、模型调优
 * 开源社区积极参与者
     * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)贡献者
+    * [M-3LAB](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)贡献者
     * 贡献项目[DS](https://github.com/oylz/DS): 具有深度关联度量的在线多目标实时跟踪
     * 多个项目issue的积极解决者[GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/issues/156#issuecomment-2324608395)、[transparent-background](https://github.com/plemeri/transparent-background/issues/13)、[BFSR](https://github.com/liyuantsao/BFSR/issues/1)、[dinov2](https://github.com/facebookresearch/dinov2/issues/19)
     * 贡献两个分割模型:gound.onnx、inspyrenet.onnx, 下载数1000+ 
